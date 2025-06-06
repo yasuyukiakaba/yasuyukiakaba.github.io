@@ -1,1 +1,2 @@
+google.com, pub-2596902763571338, DIRECT, f08c47fec0942fa0
 # yasuyukiakaba.github.io
